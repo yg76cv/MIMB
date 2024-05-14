@@ -27,7 +27,7 @@ In this paper, we have proposed a novel method termed Manifold-based Incomplete 
 If any part of our paper and repository is helpful to your work, please generously cite with:
 
 ```
-@misc{wang2024mimb,
+@article{wang2024mimb,
       title={Manifold-based Incomplete Multi-view Clustering via Bi-Consistency Guidance}, 
       author={Huibing Wang, Mingze Yao, Yawei Chen, Yunqiu Xu, Haipeng Liu, Wei Jia, Xianping Fu, Yang Wang},
       journal={IEEE Transactions on Multimedia}, 
