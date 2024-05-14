@@ -15,8 +15,9 @@ In this paper, we have proposed a novel method termed Manifold-based Incomplete 
 * Related measure can be obtained in `.\Measure`.
 
 ## Data Preparation
-We have provided 3sources dataset with 50\% missing ratio for instance, and the findindex.m file is provided to data preparation.
-The natural imcomplete 3sources can be obtained in `.\datasets`.
++ We have provided 3sources dataset with 50\% missing ratio for instance, and the findindex.m file is provided to data preparation.
++ The natural imcomplete 3sources can be obtained in `.\datasets`.
++ To generate the incomplete views, we randomly remove 10\%, 30\%, 50\% samples of each view and at least preserve one view existing.
 
 ## Usage
 + Conduct clustering
