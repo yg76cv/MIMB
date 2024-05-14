@@ -1,6 +1,6 @@
 # MIMB：Manifold-based Incomplete Multi-view Clustering via Bi-Consistency Guidance
  
-###[Paper]()
+### [Paper]()
 
 This repository is the official code for the paper "Manifold-based Incomplete Multi-view Clustering via Bi-Consistency Guidance" by Huibing Wang(huibing.wang@dlmu.edu.cn), Mingze Yao(ymz0284@dlmu.edu.cn), Yawei Chen, Yunqiu Xu, Haipeng Liu, Wei Jia, Xianping Fu, Yang Wang*. lEEE Transactions on Multimedia 2024
 
